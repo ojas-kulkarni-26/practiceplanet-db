@@ -54,5 +54,18 @@
     ],
     "imageUrl": "https://images.unsplash.com/photo-1577720643272-265f434d5dff?w=500&h=300&fit=crop",
     "filename": "fractions-decimals.md"
+  },
+  {
+    "title": "Test",
+    "excerpt": "good test",
+    "date": "2026-03-09",
+    "category": "grade 8",
+    "subcategory": "math",
+    "tags": [
+      "testing",
+      "tests"
+    ],
+    "imageUrl": "https://www.bing.com/ck/a?!&&p=b863b9c60aba233b2315f5acbc537edf638812735ffc3bc82896d5b13e2ec7d5JmltdHM9MTc3MzAxNDQwMA&ptn=3&ver=2&hsh=4&fclid=0993c687-e106-66b9-13b7-d251e0136797&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZSZpZD1DREQ3NEMwRjk2MzU5NTlEMEQ3RTgxOUNGNEZFQjY5NkVFMkJCODM1JkZPUk09SVFGUkJB",
+    "filename": "testpost.md"
   }
 ]
